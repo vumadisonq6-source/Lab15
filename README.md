@@ -20,4 +20,7 @@ Discount: 10.0%
 Final price: $4.5
 
 ## Author
-Madison V.
+Madison Vu
+
+## Collaboration Acknowledgment
+This project was reviewed and edited by Hadisa Rasoolzai on GitHub.
