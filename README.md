@@ -6,7 +6,7 @@ This program takes the user input, coffee order and membership status, and calcu
 2. Enter student names and scores.
 3. View the calculated grade output.
 
-##Example Output
+## Example Output
 === Coffee Menu ===
 1. Espresso ($3.50)
 2. Latte ($4.50)
@@ -19,5 +19,5 @@ Base price: $5.0
 Discount: 10.0%
 Final price: $4.5
 
-##Author
+## Author
 Madison V.
